@@ -1,4 +1,4 @@
-# platzimusic
+# Find Top Artist
 
 > Proyecto del cursos de Introduccion a Vuejs
 
